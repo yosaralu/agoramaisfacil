@@ -10,4 +10,4 @@ Estou em *Rio de Janeiro*
  creating dynamic documents and reports. 
  See Using R Markdown to learn more.
  
- We Added README.html arquive to the .gitignore and it dissapeared of the Git tab
+ We Added README.html arquive to the .gitignore and it dissapeared of the Git tab 
