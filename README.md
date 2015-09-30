@@ -2,6 +2,7 @@
 
 tenta aqui
 Estou em *Rio de Janeiro*
+Sarah have a cool website
 
 ### Details about this document
  Now we create a document README.md to write things on internet
@@ -12,4 +13,3 @@ Estou em *Rio de Janeiro*
  
  We Added README.html arquive to the .gitignore and it dissapeared of the Git tab 
  
- ## Sarah have a cool website
