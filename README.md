@@ -13,3 +13,9 @@ Sarah have a cool website
  
  We Added README.html arquive to the .gitignore and it dissapeared of the Git tab 
  
+<<<<<<< HEAD
+=======
+ 
+ qualquer coisa para gerar um conflito 
+ 
+>>>>>>> b4b5e0840bf9498c5456d5f86a8ebcef3686c572
